@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="J2EE_EXPORT_OVERWRITE" value="false"/>
+	<item key="J2EE_EXPORT_SOURCE" value="false"/>
+	<list key="MRU_RUNTIME_STORE">
+		<item value="WildFly 12.0 Runtime"/>
+		<item value="Apache Tomcat v8.5"/>
+		<item value="JBoss 6.x Runtime"/>
+		<item value="Apache Tomcat v7.0"/>
+	</list>
+	<list key="J2EE_EXPORT_JST_WEB">
+		<item value="E:\projet_spring_boot\HelloWorld.war"/>
+		<item value="E:\Projets\projet_spring_boot\HelloWorld.war"/>
+	</list>
+</section>

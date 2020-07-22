@@ -1,0 +1,4 @@
+
+-java: e un langaggio di programmazione orientato agli oggetti
+-jwt: json web token é un standart usato su 3 parte(header, payload,firma) per la sicurezza tra due parte, defenisce una schema in formato json
+-"FetchType.EAGER": permet de recupérer de la base de donnée le nom de user avec user avec son role 

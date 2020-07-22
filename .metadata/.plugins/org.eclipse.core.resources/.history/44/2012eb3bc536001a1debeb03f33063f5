@@ -1,0 +1,41 @@
+package com.example.metier;
+
+import org.springframework.data.domain.Page;
+
+import com.example.entities.Compte;
+import com.example.entities.Operation;
+
+@
+public class BanqueMetierImpl implements IBanqueMetier {
+
+	@Override
+	public Compte consulterCompte(String codeCpte) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void verser(String codeCpte, double montant) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void retirer(String codeCpte, double montant) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void virement(String codeCpte1, String codeCpte2, double montant) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public Page<Operation> listOperation(String codeCpte, int page, int size) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
